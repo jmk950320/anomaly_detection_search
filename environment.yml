@@ -1,0 +1,8 @@
+name: anomaly-dataset-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip:
+    - opencv-python
