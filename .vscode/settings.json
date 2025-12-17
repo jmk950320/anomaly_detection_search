@@ -1,0 +1,9 @@
+{
+    "kiroAgent.configureMCP": "Disabled",
+    "kiroAgent.enableTabAutocomplete": true,
+    "kiroAgent.notifications.agent.failure": true,
+    "kiroAgent.notifications.agent.success": true,
+    "chat.agentSessionsViewLocation": "disabled",
+    "inlineChat.notebookAgent": true,
+    "terminal.integrated.tabs.defaultColor": null
+}
